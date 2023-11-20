@@ -3,22 +3,22 @@
 
 <!--Device tree-->
 
-  <project path="device/oneplus/lemonade" name="crdroidandroid/android_device_oneplus_lemonade" remote="github"  revision=:14.0" />
+  <project path="device/oneplus/lemonade" name="crdroidandroid/android_device_oneplus_lemonade" remote="github"  revision="14.0" />
 
-  <project path="device/oneplus/sm8350-common" name="crdroidandroid/android_device_oneplus_sm8350-common" remote="github"  revision=:14.0" />
+  <project path="device/oneplus/sm8350-common" name="crdroidandroid/android_device_oneplus_sm8350-common" remote="github"  revision="14.0" />
 
 <!--Kernel-->
 
-  <project path="kernel/oneplus/sm8350" name="crdroidandroid/android_kernel_oneplus_sm8350" remote="github"  revision=:14.0" />
+  <project path="kernel/oneplus/sm8350" name="crdroidandroid/android_kernel_oneplus_sm8350" remote="github"  revision="14.0" />
 
 <!--Vendor-->
 
-  <project path="vendor/oneplus/lemonade" name="crdroidandroid/android_vendor_oneplus_lemonade" remote="gitlab"  revision=:14.0" />
+  <project path="vendor/oneplus/lemonade" name="crdroidandroid/android_vendor_oneplus_lemonade" remote="gitlab"  revision="14.0" />
 
-  <project path="vendor/oneplus/sm8350-common" name="crdroidandroid/android_vendor_oneplus_sm8350-common" remote="gitlab"  revision=:14.0" />
+  <project path="vendor/oneplus/sm8350-common" name="crdroidandroid/android_vendor_oneplus_sm8350-common" remote="gitlab"  revision="14.0" />
 
 <!--HW-->
 
-  <project path="hardware/oplus" name="crdroidandroid/android_hardware_oplus" remote="github"  revision=:14.0" />
+  <project path="hardware/oplus" name="crdroidandroid/android_hardware_oplus" remote="github"  revision="14.0" />
 
 </manifest>
